@@ -1,0 +1,83 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+Starting Inter-AS routing simulation with 4 routers (AS1-AS2-AS3-AS4)...
+At time +2s client sent 512 bytes to 192.168.3.2 port 8080
+At time +2.00139s server received 512 bytes from 192.168.4.1 port 49153
+At time +2.00139s server sent 512 bytes to 192.168.4.1 port 49153
+At time +2.00279s client received 512 bytes from 192.168.4.2 port 8080
+At time +2.75s client sent 512 bytes to 192.168.3.2 port 8080
+At time +2.75139s server received 512 bytes from 192.168.4.1 port 49153
+At time +2.75139s server sent 512 bytes to 192.168.4.1 port 49153
+At time +2.75279s client received 512 bytes from 192.168.4.2 port 8080
+At time +3.5s client sent 512 bytes to 192.168.3.2 port 8080
+At time +3.50139s server received 512 bytes from 192.168.4.1 port 49153
+At time +3.50139s server sent 512 bytes to 192.168.4.1 port 49153
+At time +3.50279s client received 512 bytes from 192.168.4.2 port 8080
+At time +4.25s client sent 512 bytes to 192.168.3.2 port 8080
+At time +4.25139s server received 512 bytes from 192.168.4.1 port 49153
+At time +4.25139s server sent 512 bytes to 192.168.4.1 port 49153
+At time +4.25279s client received 512 bytes from 192.168.4.2 port 8080
+At time +5s client sent 512 bytes to 192.168.3.2 port 8080
+At time +5.00139s server received 512 bytes from 192.168.4.1 port 49153
+At time +5.00139s server sent 512 bytes to 192.168.4.1 port 49153
+At time +5.00279s client received 512 bytes from 192.168.4.2 port 8080
+At time +5.75s client sent 512 bytes to 192.168.3.2 port 8080
+At time +5.75139s server received 512 bytes from 192.168.4.1 port 49153
+At time +5.75139s server sent 512 bytes to 192.168.4.1 port 49153
+At time +5.75279s client received 512 bytes from 192.168.4.2 port 8080
+At time +6.5s client sent 512 bytes to 192.168.3.2 port 8080
+At time +6.51181s server received 512 bytes from 192.168.1.1 port 49153
+At time +6.51181s server sent 512 bytes to 192.168.1.1 port 49153
+At time +6.52361s client received 512 bytes from 192.168.3.2 port 8080
+At time +7.25s client sent 512 bytes to 192.168.3.2 port 8080
+At time +7.26181s server received 512 bytes from 192.168.1.1 port 49153
+At time +7.26181s server sent 512 bytes to 192.168.1.1 port 49153
+At time +7.27361s client received 512 bytes from 192.168.3.2 port 8080
+At time +8s client sent 512 bytes to 192.168.3.2 port 8080
+At time +8.01181s server received 512 bytes from 192.168.1.1 port 49153
+At time +8.01181s server sent 512 bytes to 192.168.1.1 port 49153
+At time +8.02361s client received 512 bytes from 192.168.3.2 port 8080
+At time +8.75s client sent 512 bytes to 192.168.3.2 port 8080
+At time +8.76181s server received 512 bytes from 192.168.1.1 port 49153
+At time +8.76181s server sent 512 bytes to 192.168.1.1 port 49153
+At time +8.77361s client received 512 bytes from 192.168.3.2 port 8080
+At time +9.5s client sent 512 bytes to 192.168.3.2 port 8080
+At time +9.50139s server received 512 bytes from 192.168.4.1 port 49153
+At time +9.50139s server sent 512 bytes to 192.168.4.1 port 49153
+At time +9.50279s client received 512 bytes from 192.168.4.2 port 8080
+At time +10.25s client sent 512 bytes to 192.168.3.2 port 8080
+At time +10.2514s server received 512 bytes from 192.168.4.1 port 49153
+At time +10.2514s server sent 512 bytes to 192.168.4.1 port 49153
+At time +10.2528s client received 512 bytes from 192.168.4.2 port 8080
+At time +11s client sent 512 bytes to 192.168.3.2 port 8080
+At time +11.0014s server received 512 bytes from 192.168.4.1 port 49153
+At time +11.0014s server sent 512 bytes to 192.168.4.1 port 49153
+At time +11.0028s client received 512 bytes from 192.168.4.2 port 8080
+At time +11.75s client sent 512 bytes to 192.168.3.2 port 8080
+At time +11.7514s server received 512 bytes from 192.168.4.1 port 49153
+At time +11.7514s server sent 512 bytes to 192.168.4.1 port 49153
+At time +11.7528s client received 512 bytes from 192.168.4.2 port 8080
+At time +12.5s client sent 512 bytes to 192.168.3.2 port 8080
+At time +12.5014s server received 512 bytes from 192.168.4.1 port 49153
+At time +12.5014s server sent 512 bytes to 192.168.4.1 port 49153
+At time +12.5028s client received 512 bytes from 192.168.4.2 port 8080
+At time +13.25s client sent 512 bytes to 192.168.3.2 port 8080
+At time +13.2514s server received 512 bytes from 192.168.4.1 port 49153
+At time +13.2514s server sent 512 bytes to 192.168.4.1 port 49153
+At time +13.2528s client received 512 bytes from 192.168.4.2 port 8080
+
+
+=============================================
+At time +6s: AS1-AS4 LINK FAILURE
+=============================================
+AS1-AS4 direct link is DOWN.
+Expected alternate path:
+AS1 -> AS2 -> AS3 -> AS4
+
+
+=============================================
+At time +9s: AS1-AS4 LINK RECOVERY
+=============================================
+AS1-AS4 direct link is UP.
+Expected restored path:
+AS1 -> AS4
